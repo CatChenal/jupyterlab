@@ -142,7 +142,6 @@ const main: JupyterLabPlugin<void> = {
 
         const body = (
           <div>
-             <br>
               JupyterLab build is suggested:
               <pre>{response.message}</pre>
           </div>
